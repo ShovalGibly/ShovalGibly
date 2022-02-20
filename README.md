@@ -19,7 +19,7 @@
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=c++&logoColor=6d4a80)
   ![.NET](https://img.shields.io/badge/-.NET%20Core-333333?style=flat&logo=.NET)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![ReactNative](https://img.shields.io/badge/-ReactNative-333333?style=flat&logo=reactnative)
+  ![ReactNative](https://img.shields.io/badge/-ReactNative-333333?style=flat&logo=react)
   ![Java](https://img.shields.io/badge/-java-333333?style=flat&logo=java)
   ![Linux](https://img.shields.io/badge/-linux-333333?style=flat&logo=linux)
 
