@@ -4,7 +4,6 @@
 
 <br />
 
-
 <h3> 💻 &nbsp;About Me </h3>
 
 - 💼 I'm a Software Engineer at Bluevoyant. 
