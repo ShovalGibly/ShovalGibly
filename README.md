@@ -21,6 +21,7 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![ReactNative](https://img.shields.io/badge/-ReactNative-333333?style=flat&logo=reactnative)
   ![Java](https://img.shields.io/badge/-java-333333?style=flat&logo=java)
+  ![Linux](https://img.shields.io/badge/-linux-333333?style=flat&logo=linux)
 
 - 🛢  &nbsp;
   &nbsp;![SQLServer](https://img.shields.io/badge/-Sql_Server-333333?style=flat&logo=microsoft-sql-server)
@@ -31,7 +32,6 @@
   ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon)
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-
 
 - 🔧 &nbsp;
   ![Visual Studio](https://img.shields.io/badge/-Visual_Studio-333333?style=flat&logo=visual-studio&logoColor=5d2b90)
