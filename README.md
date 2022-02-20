@@ -1,6 +1,8 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=225&section=header&text=Shoval%Gibly&fontSize=35&fontAlignY=32)
+
+
 ### Hi! 👋, I'm [Shoval Gibly](https://www.linkedin.com/in/shoval-gibly/) 👩‍💻
 
-<img align="right" alt="GIF" height="130px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif">
 <br />
 
 
@@ -10,6 +12,7 @@
 
   
 - 💪 I'm a self-taught, continuously searching for greater challenges.
+- 💪 Ambitious, self-motivated, hardworking person and a great team player.
   
 <hr />
 <h3> 🛠 &nbsp;Tech Stack</h3>
@@ -47,4 +50,5 @@
 [linkedin]: https://www.linkedin.com/in/shoval-gibly/
 [gmail]: mailto:ShovalGibly@gmail.com
 
+![footer](https://capsule-render.vercel.app/api?section=footer)
 
