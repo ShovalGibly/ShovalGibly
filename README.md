@@ -16,10 +16,11 @@
 
 - 🧰 &nbsp;
   ![Python](https://img.shields.io/badge/-Pyhton-333333?style=flat&logo=python&logoColor=804a4a)
-  ![CSharp](https://img.shields.io/badge/-C%23-333333?style=flat&logo=c-sharp&logoColor=6d4a80)
+  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=c++&logoColor=6d4a80)
   ![.NET](https://img.shields.io/badge/-.NET%20Core-333333?style=flat&logo=.NET)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![ReactNative](https://img.shields.io/badge/-ReactNative-333333?style=flat&logo=reactnative)
+  ![Java](https://img.shields.io/badge/-java-333333?style=flat&logo=java)
 
 - 🛢  &nbsp;
   &nbsp;![SQLServer](https://img.shields.io/badge/-Sql_Server-333333?style=flat&logo=microsoft-sql-server)
