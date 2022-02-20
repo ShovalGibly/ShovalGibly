@@ -30,6 +30,8 @@
 - ⚙️ &nbsp;
   ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon)
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+
 
 - 🔧 &nbsp;
   ![Visual Studio](https://img.shields.io/badge/-Visual_Studio-333333?style=flat&logo=visual-studio&logoColor=5d2b90)
