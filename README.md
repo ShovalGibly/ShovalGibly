@@ -37,11 +37,11 @@
   ![Visual Studio](https://img.shields.io/badge/-Visual_Studio-333333?style=flat&logo=visual-studio&logoColor=5d2b90)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
-<p>
+<!-- <p>
   <div class="github-stats">
   <img  src="https://github-readme-stats.vercel.app/api?username=ShovalGibly&theme=vision-friendly-dark&show_icons=true&hide=issues,contribs,prs" />
   </div>
-</p>
+</p> -->
 
 ### 📝 Contact Me 
 [<img align="left" alt="ShovalGibly | LinkedIn" height="40px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg"/>][linkedin]
