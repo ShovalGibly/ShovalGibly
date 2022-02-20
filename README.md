@@ -1,16 +1,50 @@
-### Hi there 👋
+### Hi! 👋, I'm [Shoval Gibly](https://www.linkedin.com/in/shoval-gibly/) 👩‍💻
+
+<img align="right" alt="GIF" height="130px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif">
+<br />
 
 
-**ShovalGibly/ShovalGibly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3> 💻 &nbsp;About Me </h3>
 
-Here are some ideas to get you started:
+- 💼 I'm a Software Engineer at Bluevoyant. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+  
+- 💪 I'm a self-taught, continuously searching for greater challenges.
+  
+<hr />
+<h3> 🛠 &nbsp;Tech Stack</h3>
+
+- 🧰 &nbsp;
+  ![CSharp](https://img.shields.io/badge/-C%23-333333?style=flat&logo=c-sharp&logoColor=6d4a80)
+  ![.NET](https://img.shields.io/badge/-.NET%20Core-333333?style=flat&logo=.NET)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+
+- 🛢  &nbsp;
+  &nbsp;![SQLServer](https://img.shields.io/badge/-Sql_Server-333333?style=flat&logo=microsoft-sql-server)
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+
+- ⚙️ &nbsp;
+  ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon)
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+
+- 🔧 &nbsp;
+  ![Visual Studio](https://img.shields.io/badge/-Visual_Studio-333333?style=flat&logo=visual-studio&logoColor=5d2b90)
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+
+<p>
+  <div class="github-stats">
+  <img  src="https://github-readme-stats.vercel.app/api?username=ShovalGibly&theme=vision-friendly-dark&show_icons=true&hide=issues,contribs,prs" />
+  </div>
+</p>
+
+### 📝 Contact Me 
+[<img align="left" alt="ShovalGibly | LinkedIn" height="40px" src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png"/>][linkedin]
+[<img align="left" alt="ShovalGibly | Gmail" height="40px" src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/24/000000/external-gmail-is-a-free-email-service-developed-by-google-logo-filled-tal-revivo.png"/>][gmail]
+
+
+[linkedin]: https://www.linkedin.com/in/shoval-gibly/
+[gmail]: mailto:ShovalGibly@gmail.com
+
 
