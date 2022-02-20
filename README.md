@@ -42,7 +42,7 @@
 </p>
 
 ### 📝 Contact Me 
-[<img align="left" alt="ShovalGibly | LinkedIn" height="40px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg "/>][linkedin]
+[<img align="left" alt="ShovalGibly | LinkedIn" height="40px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg"/>][linkedin]
 [<img align="left" alt="ShovalGibly | Gmail" height="40px" src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg"/>][gmail]
 
 
