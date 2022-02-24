@@ -21,8 +21,8 @@
   ![ReactNative](https://img.shields.io/badge/-ReactNative-333333?style=flat&logo=react)
   ![Java](https://img.shields.io/badge/-java-333333?style=flat&logo=java)
   ![Linux](https://img.shields.io/badge/-linux-333333?style=flat&logo=linux)
-  ![HTML](https://img.shields.io/badge/-html-333333?style=flat&logo=html)
-  ![CSS](https://img.shields.io/badge/-css-333333?style=flat&logo=css)
+  ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS)
 
 - 🛢  &nbsp;
   &nbsp;![SQLServer](https://img.shields.io/badge/-Sql_Server-333333?style=flat&logo=microsoft-sql-server)
